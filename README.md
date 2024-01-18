@@ -1,4 +1,4 @@
-        Try This Model here - https://huggingface.co/ksuyash/finetuned-indian-food
+          [Try This Model here -]([https://www.google.com](https://huggingface.co/ksuyash/finetuned-indian-food))
 Description: Develop an image classification model to recognize different types of food items from images.
 
 Steps:
