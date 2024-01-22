@@ -1,5 +1,3 @@
-[Try it here](https://huggingface.co/ksuyash/finetuned-indian-food)
-
 1. --------------------------------------------------------------------------------------------------
 Description: Develop an image classification model to recognize different types of food items from images.
 
@@ -16,6 +14,8 @@ Tech Stack:
 Python
 Deep Learning frameworks 
 Image processing libraries
+
+[Try it here](https://huggingface.co/ksuyash/finetuned-indian-food)
 
 2. --------------------------------------------------------------------------------------------------
 Description: Build a sentiment analysis model to classify social media posts as positive, negative, or neutral.
